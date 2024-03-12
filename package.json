@@ -33,6 +33,6 @@
     "@moncici/log": "^1.0.2",
     "@moncici/proxy": "^1.0.3",
     "@moncici/sleep": "^1.0.1",
-    "lark-notifier": "^1.0.4"
+    "lark-notifier": "^1.0.3"
   }
 }
