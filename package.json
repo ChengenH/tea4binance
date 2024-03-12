@@ -1,6 +1,6 @@
 {
   "name": "tea4binance",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "",
   "type": "module",
   "main": "assets_scan.js",
